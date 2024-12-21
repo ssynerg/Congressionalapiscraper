@@ -1,0 +1,22 @@
+# Ignore virtual environment directory
+venv/
+
+# Ignore compiled Python files
+__pycache__/
+
+
+# Ignore ChromeDriver zip files
+chromedriver_linux64.zip*
+chrome-linux64.zip
+
+# Ignore Google Chrome Debian package
+google-chrome-stable_current_amd64.deb
+
+# Ignore CSV files
+*.csv
+
+# Ignore Playwright session files
+playwright_session
+
+# Ignore shell scripts
+
