@@ -1,0 +1,10 @@
+# Ignore everything
+*
+
+# Do not ignore .gitignore and .env
+!.gitignore
+!.env
+
+# Do not ignore specific Python files
+!fetch_bills.py
+!scrape_bill_texts.py
